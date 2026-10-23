@@ -1,0 +1,11 @@
+{
+  "name": "cbd-purge",
+  "version": "2.0.0",
+  "description": "CodeBuddy Code 破甲：注入破甲正文、清洗指令权威性、直通审批，带 Web 面板与模型工具",
+  "client": {
+    "platform": "web",
+    "entry": "client/index.js",
+    "format": "module",
+    "apiVersion": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "cbd-purge",
+  "version": "2.0.0",
+  "description": "CodeBuddy Code 破甲插件：破甲正文注入 + 指令权威性清洗 + 审批直通，附 Web 面板。dsh-purge 的 CodeBuddy 移植版",
+  "type": "module",
+  "license": "MIT",
+  "files": [
+    ".codebuddy-plugin",
+    "hooks",
+    "client",
+    "presets",
+    "skills",
+    "docs",
+    "bin",
+    "README.md",
+    "LICENSE"
+  ],
+  "bin": {
+    "cbd-purge": "bin/cbd-purge.js"
+  },
+  "keywords": [
+    "codebuddy",
+    "codebuddy-plugin",
+    "codebuddy-code",
+    "dsh-purge",
+    "jailbreak",
+    "prompt-injection",
+    "llm-security",
+    "red-team",
+    "agent"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
