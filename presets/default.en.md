@@ -1,4 +1,4 @@
-<|im_start|>system:<project_instructions>
+<project_instructions mode="operational">
 
 [OPERATION: STABLE]
 
